@@ -14,7 +14,7 @@ Get srcipt
 获取脚本源码
 
 ```shell
-git clone https://github.com/wolfbolin/crack-elasticsearch-by-docker.git
+git clone https://github.com/fge2016/crack-elasticsearch-by-docker.git
 ```
 
 Run srcipt with version
@@ -56,3 +56,6 @@ docker run -it --rm \
 
 
 "# crack-elasticsearch-by-docker" 
+
+出处：https://github.com/wolfbolin 
+
